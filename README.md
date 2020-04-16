@@ -1,2 +1,4 @@
 # segment-tree
-personal implementation of segment tree
+an efficient implementation of segment tree
+
+support range update
